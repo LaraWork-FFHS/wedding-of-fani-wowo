@@ -41,7 +41,7 @@ body {
   z-index: 999;
   position: fixed;
   transition: .8s ease;
-  background: linear-gradient(rgba(77, 77, 77, 0.39),rgba(79, 79, 79, 0.596)),url('img/cover.jpg') no-repeat center / cover;
+  background: linear-gradient(rgba(77, 77, 77, 0.39),rgba(79, 79, 79, 0.596)),url('img/IMG_20260105_214112.jpg') no-repeat center / cover;
 }
 
 #tutup .text-tutup{
@@ -920,4 +920,5 @@ footer .box-footer a{
       transform: rotate(360deg);
     }
 }
+
 
